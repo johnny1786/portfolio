@@ -32,7 +32,7 @@ const Navbar = () => {
 
 <div className="flex items-center space-x-6">
   <a
-    href="https://github.com/your-username"
+    href="https://github.com/johnny1786"
     target="_blank"
     rel="noopener noreferrer"
     className="hover:text-gray-400"
@@ -40,7 +40,7 @@ const Navbar = () => {
     <FaGithub size={24} />
   </a>
   <a
-    href="https://linkedin.com/in/your-username"
+    href="https://www.linkedin.com/in/johnson157"
     target="_blank"
     rel="noopener noreferrer"
     className="hover:text-blue-400"
