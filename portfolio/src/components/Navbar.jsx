@@ -25,7 +25,7 @@ const Navbar = () => {
           <li><a href="#projects" className="text-lg hover:text-blue-500 transition-colors duration-300">Projects</a></li>
           <li><a href="#skills" className="text-lg hover:text-blue-500 transition-colors duration-300">Skills</a></li>
           <li><a href="#contact" className="text-lg hover:text-blue-500 transition-colors duration-300">Contact</a></li>
-          <li><a href="https://drive.google.com/drive/u/0/folders/1hme8bA-fcvDhiC5PCa99IP-Lv_lFCx-2" 
+          <li><a href="https://drive.google.com/file/d/1WZG9zqXsZCHB3a8VpK0a9bkVQi7UYzQ6/view" 
           className="text-lg hover:text-blue-500 transition-colors duration-300">Resume</a></li>
         </ul>
         
