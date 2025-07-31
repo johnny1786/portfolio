@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'; // Hamburger icons
-import logo from '../assets/logo.png'; // Ensure logo.png exists in assets folder
+import logo from '../assets/logo2.png'; // Ensure logo.png exists in assets folder
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -16,7 +16,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <img src={logo} alt="Logo" className="h-12 w-12 rounded-full object-cover" />
-          <span className="text-2xl md:text-4xl font-extrabold">Johnson</span>
+          
         </div>
 
         {/* Desktop Menu */}
